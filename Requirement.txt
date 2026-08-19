@@ -1,4 +1,7 @@
 pyrogram
+tgcrypto
 pytgcalls
 yt-dlp
-ffmpeg-python
+requests
+aiohttp
+python-dotenv
